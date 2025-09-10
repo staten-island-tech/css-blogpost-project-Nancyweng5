@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+    margin: 50;
+    width: 50vw;
+}   
+img{ 
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+}
+button{
+    background: navy;
+}
+.card-img{ 
+    width: 500px;
+}
+.hero-img{
+    width: 500vw;
+}
