@@ -1,12 +1,27 @@
-body{
-    background-color: bisque;
-    font-style: italic;
+
+html,
+body,
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Playfair Display", serif;
+  background-color: #cfb095;
 }
 h1 {
     text-align: center;
     margin: 50;
-    width: 50vw;
+    width: 95vw;
+    font: "Playfair Display", serif;
 }   
+p {
+    font-size: larger;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-size:xx-large;
+}
 img{ 
     width: 500px;
     height: 500px;
@@ -21,3 +36,4 @@ button{
 .hero-img{
     width: 500vw;
 }
+
