@@ -30,10 +30,9 @@ img{
 button{
     background: navy;
 }
-.card-img{ 
-    width: 500px;
+.header{
+    padding:20px;
+    background-color: 	#e6e2dc;
+    font-size: 10rem;
+    text-align: center;
 }
-.hero-img{
-    width: 500vw;
-}
-
